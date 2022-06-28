@@ -1,0 +1,32 @@
+{
+  "status": 200,
+  "headers": {
+    "date": "Mon, 27 Jun 2022 18:04:36 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "10189",
+    "connection": "close",
+    "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400",
+    "access-control-allow-origin": "*",
+    "cache-control": "public, max-age=86400, s-maxage=86400",
+    "etag": "W/\"13510-f3wd6Vd37rflxYqoMsQUrlAE7yI\"",
+    "function-execution-id": "34rgn3p5tzu7",
+    "strict-transport-security": "max-age=31556926",
+    "x-cloud-trace-context": "d1feb16fb38071dba2aae30ae7d64fbb",
+    "x-country-code": "BR",
+    "x-orig-accept-language": "pt,pt-PT;q=0.9,en-US;q=0.8,en;q=0.7",
+    "x-powered-by": "Express",
+    "x-served-by": "cache-cgh11152-CGH",
+    "x-cache": "HIT",
+    "x-cache-hits": "1",
+    "x-timer": "S1656349185.246612,VS0,VE574",
+    "vary": "Accept-Encoding,cookie,need-authorization, x-fh-requested-host, accept-encoding",
+    "cf-cache-status": "HIT",
+    "age": "3891",
+    "accept-ranges": "bytes",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=Znp%2FVwFf1IGPdKFBTQzPfl8E4xRIXgFnCZoTZCqRI4hPHG6E%2FJ03Dqe0F4BojvN%2B2B55q850OYImHDWwto%2BOa0hG%2FOjb2SIfjecogemJbwhMb8qwL8mTE6tzYVyt%2BHo7P2xFTkX1ng%2B%2B\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+    "server": "cloudflare",
+    "cf-ray": "72201b2758e8428c-VCP"
+  }
+}
